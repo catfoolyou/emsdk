@@ -2,6 +2,20 @@
 # DO NOT MODIFY
 
 EMSCRIPTEN_TAGS = {
+    "3.1.53": struct(
+        hash = "e5523d57a0e0dcf80f3b101bbc23613fcc3101aa",
+        sha_linux = "1025c0c738fbaedf3f8fcffee23bef71c8d04a95b30ea8a69a47231fb35d1c8b",
+        sha_mac = "318dc0cc51a237040bc1cb0a9e7d6c214196c8a100b50d0e298cf3ea7c365dbe",
+        sha_mac_arm64 = "e346ef588f7cfe1e41623de2257a11ecf8381fbd3bde63a8773b3a663411ea12",
+        sha_win = "af7f7175ab0b3c1e9121c713764e8ac1d970b6dbee8a84602b4a69cc5ec5940d",
+    ),
+    "3.1.52": struct(
+        hash = "ce2097fb81953331e65543c20b437475f218127c",
+        sha_linux = "1c0cd572067c6348cea5e347b9ef7c5460493ca3f0d84bb991689731d0e140ef",
+        sha_mac = "5d9c801f9cfe81337d65969e174e0b3ef4cf2b47eb548ff4695abe3a2e69ba70",
+        sha_mac_arm64 = "7ce8fef7542437c85412143cb59b13b8804bb06243a106d2d342c7d9132edc8e",
+        sha_win = "82ed01d965f5c2765191c67da5baecd2d3ce3f82a8cf30fc47fcd56d47826cf6",
+    ),
     "3.1.51": struct(
         hash = "4f416d92fbff66ce79901cfc8263768f1b25dd3e",
         sha_linux = "09af08eb562cccf85770e4b8e368acb5accb1759fe3bc436b8fad80c27f90c79",
